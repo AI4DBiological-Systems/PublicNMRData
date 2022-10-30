@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+type: dataset
+message: "If you use the contents of this repository, please cite it as below."
+authors: "National Research Council of Canada"
+title: "Public NMR research data"
+version: 1.0
+date-released: 2022-09-11
+url: "https://github.com/AI4DBiological-Systems/NMRPublicData"
+license: CC-BY-NC-SA-4.0
